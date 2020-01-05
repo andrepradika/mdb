@@ -1,0 +1,23 @@
+
+.page-footer{
+    bottom:0;color:#fff
+}
+footer.page-footer .container{
+    width:auto
+}
+footer.page-footer .footer-copyright{
+    overflow:hidden;background-color:rgb(255, 255, 255);color:rgb(0, 0, 0)
+}
+footer.page-footer a{
+    color:rgb(0, 0, 0)}.media .media-left{padding:0 10px 10px 0}
+
+    .text{
+        color: black;
+    }
+
+    .card-title{
+        color:black;
+    }
+    .dan{
+        color:black;
+    }
